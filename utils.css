@@ -1,0 +1,44 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: aquamarine;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between5;
+}
+.justify-center{
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.font-bold{
+    font-weight: bold;
+}
+.my-1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left: 23px;
+    padding-right: 23px;
+}
+.text-blue{
+    color:rgb(90, 90, 238)
+}
